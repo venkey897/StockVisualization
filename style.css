@@ -1,0 +1,108 @@
+.text{
+    background-color:aqua;
+    font-size: 60px;
+}
+.p1{
+    font-size: 60px;
+}
+.para{
+    font-size: 25px;
+    font-style: italic;
+}
+.img{
+    position: relative;
+    left: 20px;
+}
+.ref{
+    position: absolute;
+    left: 90px;
+    font-size: 20px;
+}
+.l{
+    position: absolute;
+    top: 290px;
+    left: 1600px;
+    font-size: 30px;
+}
+.l1{
+    position: absolute;
+    top: 290px;
+    left: 1700px;
+    font-size: 30px;
+}
+.logo{
+    position: absolute;
+    top:250px;
+    left:650px;
+
+    width: 300px;
+
+}
+.logo input[type='text']
+{
+    width:400px;
+    height: 40px;
+    border:1px solid #3498db;
+}
+.logo input[type='password']
+{
+    width:400px;
+    height: 40px;
+    border:1px solid #3498db;
+    
+}
+.logo input[type='submit']
+{
+
+    position: absolute;
+    background-color:blue;
+    color:white;
+    
+    left:180px;
+    width:70px;
+    height: 40px;
+}
+.sign
+{
+    position: absolute;
+    top: 100px;
+    left:600px;
+    width:700px;
+    height: 500px;
+    border: 1px solid #000000;
+    font-size: 20px;
+    padding: 70px;
+}
+.sign input[type='text']
+{
+    position: absolute;
+    left: 200px;
+    width: 250px;
+    height: 30px;
+    border:1px solid #3498db;
+}
+.sign input[type='password']
+{
+    position: absolute;
+    left: 200px;
+    width: 250px;
+    height: 30px;
+    border:1px solid #3498db;
+}
+.sign input[type='number']
+{
+    position: absolute;
+    left: 200px;
+    width: 250px;
+    height: 30px;
+    border:1px solid #3498db;
+}
+.sign input[type='submit']
+{
+    position: absolute;
+    border:1px solid #3498db;
+    width: 90px;
+    height: 40px;
+
+    left: 300px;
+}
