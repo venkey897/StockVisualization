@@ -1,0 +1,2 @@
+# StockVisualization
+Visualizing stocks
